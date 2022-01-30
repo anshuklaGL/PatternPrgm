@@ -9,7 +9,7 @@ public class Ptrn1 {
      */
 
     public static void main(String[] args){
-
+    // Adding new comment
         int n=3;
 
         for(int i=1;i<=n;i++){
